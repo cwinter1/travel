@@ -1,0 +1,103 @@
+# Family Travel Profile
+
+Reusable base for all future trip searches. Family identity doesn't change trip to
+trip — only destination, dates, and budget do. Read this file first before starting
+any new trip search in this repo.
+
+## Who
+
+| Name | Relation | Birthdate |
+|---|---|---|
+| Chris Winter | Parent | 1982-01-27 |
+| Katya Winter | Parent | 1984-07-02 |
+| Emma Sol Winter | Child | 2012-06-22 |
+| Maya Luz Winter | Child | 2014-06-18 |
+| Sofia Alin Winter | Child | 2016-02-08 |
+
+**Always compute age as of the trip's start date, not "today."** Lift passes, ski
+lesson tiers, flight fare classes (e.g. Kiwi.com treats 12+ as "adult"), and hotel
+child-occupancy rules all key off age *during travel*, and a kid can cross an age
+bracket between "today" and the trip. Example: Sofia was 10 when the Bulgaria trip
+was researched (mid-2026) but turned 11 on the first day of travel (Feb 8, 2027,
+her birthday) — still under the resort's "child <12" lift-pass bracket, but it
+wouldn't have been if the trip had run a year later.
+
+## Home base
+
+- **Airport**: Tel Aviv (TLV) — assume this unless told otherwise
+- **Currency**: ILS (Israeli new shekel) — always convert and present final numbers
+  in ILS regardless of what currency search tools return in
+- **Location**: Israel
+
+## Preferences (durable across trips)
+
+- **Self-catering apartments preferred** over hotels with breakfast — cooking some
+  meals matters more to the budget than hotel amenities
+- **Cash bookings only** — no interest in credit-card points/miles optimization,
+  award flights, or loyalty-program stacking. Skip any tool/toolkit oriented around
+  that (e.g. travel-hacking-toolkit's Duffel/Ignav/seats.aero/transfer-partner
+  skills are out of scope here — only its free no-auth flight/hotel MCP servers
+  would ever be relevant, and weren't needed once account connectors were fixed)
+- **Budget-conscious, not fixed** — the Bulgaria trip target was 10,000 ILS for 7
+  days all-in, but that number is trip-specific, not a standing rule. Always ask
+  for the budget for a new trip rather than assuming it carries over
+- **Kids are still learning** — for activity/sport trips, plan around beginner
+  instruction (e.g. ski lessons) rather than assuming existing skill
+
+## Tools confirmed working (as of 2026-07)
+
+- **Kiwi.com** (flights) and **Booking.com** (accommodations) — connected via
+  claude.ai account-level MCP connectors, set to "always allow." Live search
+  confirmed working with real itinerary/price data.
+- **Expedia** and **lastminute.com** — connected and set to "always allow," not
+  yet exercised with a real search but should work the same way.
+- These connectors must be enabled in claude.ai connector settings *and* set to
+  "always allow" for each — the default "ask every time" approval can't be
+  answered in this session type and calls will fail with
+  `MCP tool call requires approval`.
+- **Not resolved**: this session's own repo-access tools (`add_repo`/`list_repos`
+  for the Claude Code Remote environment) remain blocked by a separate,
+  unrelated permission gate. That one lives at the environment/session level, not
+  in claude.ai connector settings — don't confuse the two when troubleshooting.
+  Practical effect: I can search live prices, but can't push directly into this
+  repo — expect to paste files in yourself unless that gets resolved.
+
+## Trip search process (repeat for every new trip)
+
+1. Get from Chris: destination(s) under consideration, date range (or a fixed
+   window), trip length, budget, and any trip-specific must-haves (e.g. "3 days of
+   ski lessons," "beginner-friendly").
+2. If the date range spans multiple candidate weeks, live-price flights (Kiwi.com)
+   and lodging (Booking.com) for each candidate week in parallel, in the family's
+   real passenger mix computed from birthdates above — pick the cheapest combined
+   week unless another week has a hard reason to win (e.g. a birthday, snow
+   conditions, school holidays).
+3. Itemize the full budget, not just flights+lodging: activity-specific costs
+   (lessons, passes, rentals), local transfer, and a meals/groceries estimate
+   belong in the same table. Flag clearly whether the total is within the given
+   budget or by how much it's over.
+4. Where live pricing isn't available for a category (e.g. Pamporovo lift passes
+   and ski school had no connector coverage), say so explicitly and mark those
+   numbers as published-rate estimates, not live quotes — don't blur the two
+   together.
+5. If over budget, give concrete levers to close the gap (fewer lesson days,
+   skip rental for gear already owned, tighter grocery budget, earlier booking for
+   pre-sale discounts) rather than just restating the shortfall.
+6. Write the trip up as its own file under `trips/` (see below) so this FAMILY.md
+   stays purely reusable and each trip's specifics stay contained.
+
+## Suggested repo layout
+
+```
+travel/
+  FAMILY.md              <- this file, reusable across all trips
+  README.md
+  trips/
+    2027-02-bulgaria-pamporovo.md   <- rename/move the existing root-level file here
+    <next-trip>.md
+```
+
+The Bulgaria file currently sits at the repo root as
+`Bulgaria-ski-trip-planning-2027` (no extension). Recommend renaming it to
+`trips/2027-02-bulgaria-pamporovo.md` next time you're in the repo, so future trips
+don't clutter the root. Not urgent — just tidier as trip count grows.
