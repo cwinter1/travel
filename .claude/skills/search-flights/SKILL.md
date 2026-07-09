@@ -53,6 +53,27 @@ aviation-industry research, not a historical data pull for the specific
 route, and should be labeled that way rather than presented as a live
 analysis.
 
+**Researched (2026-07) and ruled out as a live source:** Amadeus's
+Flight Price Analysis API (`/v1/analytics/itinerary-price-metrics`) is the
+one purpose-built API that returns a real historical fare distribution
+(quartiles) for a route — but its Self-Service developer portal is being
+decommissioned July 17, 2026 and new registrations are already paused, so
+it isn't viable to stand up. Kiwi.com's own API has no historical-price
+endpoint (live search only). Other "flight data" APIs found in that search
+(FlightLabs, FlightAPI.io, Aviationstack, Flightradar24) are primarily
+flight tracking/schedule-status history, not fare-price history — don't
+be misled by "historical" in their marketing. Re-check this landscape
+periodically; a comparable self-serve fare-history API may become
+available later.
+
+**Practical substitute: build a route-specific price history manually.**
+Since no live historical source exists, log every `/search-flights` result
+for a given trip in a dated table (see the Bulgaria trip file for the
+pattern) instead of relying on a single check. Suggested cadence: one
+check now, one check monthly until ~120 days out, then weekly through the
+sweet-spot window — enough points to see a real trend for that specific
+route rather than guessing from general research.
+
 General patterns to draw on:
 - **Domestic / short-haul leisure**: book ~1–3 months out; prices often
   sweet-spot around 4–6 weeks before departure.
