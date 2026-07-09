@@ -68,4 +68,19 @@ Feb 8–14 won on both flights and lodging, and it starts on [daughter]'s birthd
 - Live-check ski lesson and lift pass prices once a Pamporovo-specific booking
   connector/site is available (not covered by Kiwi.com/Booking.com/Expedia/lastminute.com)
 - Confirm exact 2026/27 lift pass pre-sale window
-- Book flights ~2-3 months out; apartment has flexible booking, can wait
+- Book flights: target window **~Oct 11 – Nov 10, 2026** (90–120 days before
+  the Feb 8, 2027 departure). This is general published booking-window
+  research, not live/historical fare data for this specific route (no
+  historical-fare connector is available — see `.claude/skills/search-flights/SKILL.md`
+  for the general guidance this is based on). Notes specific to this trip:
+  - The lift-pass pre-sale deadline (~Oct 31, 2026) sits inside this window
+    — booking flights in the first half (Oct 11–31) means one trip to the
+    connectors covers both flights and the pass pre-sale discount
+  - El Al (outbound leg) is a legacy carrier and typically opens bookings
+    ~10–11 months out, so its schedule/fares are likely already visible now
+  - Wizz Air (return leg) is low-cost and typically releases schedules later
+    (~6–9 months out) with more volatile pricing — the 4,063 ILS combined
+    fare above was checked mid-2026, early in Wizz's likely release window,
+    so re-run `/search-flights` for this route closer to the Oct–Nov target
+    window rather than treating that number as final
+  - Apartment has flexible booking, can wait

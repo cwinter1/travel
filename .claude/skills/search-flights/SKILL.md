@@ -43,6 +43,39 @@ birthdates (needed to compute the correct fare-class mix), the home airport
    the conversation. If Chris wants the result saved, that's `/trip-search`'s
    job (or ask before writing anything to `trips/`).
 
+## When to buy (booking-window guidance)
+
+If Chris asks *when* to book rather than *what it costs right now*, note
+upfront that **no historical-fare or price-trend connector is available in
+this environment** — Kiwi.com/Expedia/lastminute.com only return live,
+current-day quotes. Any "best time to buy" answer is general published
+aviation-industry research, not a historical data pull for the specific
+route, and should be labeled that way rather than presented as a live
+analysis.
+
+General patterns to draw on:
+- **Domestic / short-haul leisure**: book ~1–3 months out; prices often
+  sweet-spot around 4–6 weeks before departure.
+- **International leisure** (the family's typical case, flying out of TLV):
+  book ~2–5 months out; sweet spot commonly cited around **90–120 days**
+  before departure.
+- **Peak season / school-holiday travel** (which most family trips are,
+  being scheduled around school breaks): book earlier than the general
+  sweet spot — 4–6+ months out — since peak-period seat maps fill and
+  cheap fare buckets close faster.
+- **Prices typically rise sharply inside ~21 days** of departure as airlines
+  shift into last-minute/business-fare pricing.
+- **Carrier mix matters.** Legacy carriers (e.g. El Al) often open booking
+  further out (~10–11 months) with fares that drift gradually; low-cost
+  carriers (e.g. Wizz Air) tend to release schedules later (~6–9 months
+  out) with more volatile, demand-driven pricing. A round trip combining
+  both (as the Bulgaria trip does) may not have a single unified "best
+  window" — check each leg's typical release pattern.
+- **Don't commit on a single guess.** Recommend Chris re-run `/search-flights`
+  for the same route every few weeks starting near the sweet-spot window,
+  and book when a check comes back meaningfully cheaper than the prior one
+  — that's a real (if manual) substitute for historical trend data.
+
 ## Out of scope
 
 - Does not search or price lodging, activities, transfers, or meals — flights only
