@@ -62,9 +62,24 @@ it isn't viable to stand up. Kiwi.com's own API has no historical-price
 endpoint (live search only). Other "flight data" APIs found in that search
 (FlightLabs, FlightAPI.io, Aviationstack, Flightradar24) are primarily
 flight tracking/schedule-status history, not fare-price history — don't
-be misled by "historical" in their marketing. Re-check this landscape
-periodically; a comparable self-serve fare-history API may become
-available later.
+be misled by "historical" in their marketing.
+
+Also checked (2026-07): **FareDetective** (`faredetective.com/farehistory/`)
+has a real historical-fare-chart feature, free, claiming ~1M route
+combinations including international routes — but it's web-interface only
+(no API), and the site returns `403 Forbidden` on every automated fetch
+attempt (Cloudflare-style bot-blocking). If Chris wants to check it, it has
+to be done manually in a browser, not by Claude — try
+`faredetective.com/farehistory/flights-from-<City>-<CODE>-to-<City>-<CODE>.html`
+(coverage of a specific low-volume route like TLV↔SOF is unconfirmed).
+**Kayak price trends** (its "Price Forecast" widget and Travel Data API)
+has no self-serve access — API keys require approval as a Kayak affiliate
+partner, which itself requires an existing travel-content site with real
+traffic, so it doesn't fit personal trip planning; the consumer widget is
+web-only and scraping it isn't worth the ToS risk.
+
+Re-check this landscape periodically; a comparable self-serve fare-history
+API may become available later.
 
 **Practical substitute: build a route-specific price history manually.**
 Since no live historical source exists, log every `/search-flights` result
