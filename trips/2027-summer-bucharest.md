@@ -4,22 +4,29 @@ Family of 5 (2 adults, kids 15/13/11 by summer 2027), Bucharest, Romania.
 Budget: 18,000 ILS all-in. 10-14 days. No fixed dates — anywhere in
 June, July, or August 2027. Must include a rental car. No museums.
 
-## Status: dates not finalized — flights not yet priceable
+## Status: late June now priceable; mid-July and mid-August still waiting
 
-Airline schedules for this route (Wizz Air, HiSky, Tarom) haven't been
-published this far out (11-14 months from today, 2026-07-09) — a live test
-of a nearer date (Oct 2026) confirmed the route and connector both work
-fine (cheapest option 2,287 ILS), so the zero results below are a
-"too early" issue, not a search problem. A weekly trigger is now checking
-for schedule openings — see "Ongoing monitoring" below.
+Airline schedules for this route (Wizz Air, Tarom, and codeshares) hadn't
+been published this far out (11-14 months from today, 2026-07-09) — a live
+test of a nearer date (Oct 2026) confirmed the route and connectors both
+work fine. As of the 2026-07-13 weekly check, **the late-June week's
+schedule has opened**; mid-July and mid-August are still unpublished. A
+weekly trigger keeps checking for the remaining two — see "Ongoing
+monitoring" below.
 
 ## Candidate weeks compared (all ~11 nights, within the 10-14 day range)
 
 | Week | Dates | Flights (5 pax: 4 adults + 1 child) | Family apartment (checked 2026-07-09) |
 |---|---|---|---|
-| Late June | Jun 27 – Jul 8, 2027 | Not yet priceable — no schedule | 3,566 ILS |
-| Mid July | Jul 18 – Jul 29, 2027 | Not yet priceable — no schedule | 3,566 ILS |
-| Mid August | Aug 15 – Aug 26, 2027 | Not yet priceable — no schedule | 3,566 ILS |
+| Late June | Jun 27 – Jul 8, 2027 | **2,367 ILS** (live-checked 2026-07-13, lastminute.com — Kiwi.com was disconnected at check time) | 3,566 ILS |
+| Mid July | Jul 18 – Jul 29, 2027 | Not yet priceable — no schedule (checked 2026-07-13) | 3,566 ILS |
+| Mid August | Aug 15 – Aug 26, 2027 | Not yet priceable — no schedule (checked 2026-07-13) | 3,566 ILS |
+
+Late June cheapest option: Wizz Air Malta, nonstop both ways, 690.10 EUR
+total for all 5 — converted at ~3.43 ILS/EUR. Several nonstop Wizz Air
+options cluster at this same price; Tarom and mixed-carrier options run
+higher (860-1,287 EUR). Booking link and full option list available on
+request — not included here to keep the file short.
 
 Apartment: House4You - Balcescu, Sector 1, 4★ (estimated), 9.2/10 (764
 reviews) — via Booking.com, 2 adults + 3 children (ages 15/13/11).
@@ -54,17 +61,18 @@ aggregator estimates for Bucharest, summer 2026: SUV/minivan (needed for
 
 | Item | ILS | Source |
 |---|---|---|
-| Flights (5 pax) | Not yet priceable | — |
+| Flights (5 pax, late June only) | ~2,367 | Live (lastminute.com, 2026-07-13) |
 | Apartment (~12 nights) | ~3,566 | Live (Booking.com), flagged above |
 | Car rental (~12 days) | ~1,100–1,800 | Published estimate |
 | Meals | Not yet estimated | — |
 | Activities (no museums) | Not yet estimated | — |
-| **Total so far (excl. flights, meals, activities)** | **~4,700–5,400** | |
+| **Total so far, late June (excl. meals, activities)** | **~7,000–7,700** | |
 | **Budget** | **18,000** | |
 
-For the Bulgaria trip, flights were ~34% of the total budget — until
-flight schedules open, this budget picture is too incomplete to say
-whether 18k is realistic. Revisit once flights are priceable.
+Still well under budget even before meals/activities are added — but
+mid-July and mid-August can't be compared yet since their flights aren't
+priceable. Don't lock in "late June is cheapest" until all three weeks
+have real flight numbers.
 
 ## Must-haves
 
