@@ -4,29 +4,32 @@ Family of 5 (2 adults, kids 15/13/11 by summer 2027), Bucharest, Romania.
 Budget: 18,000 ILS all-in. 10-14 days. No fixed dates — anywhere in
 June, July, or August 2027. Must include a rental car. No museums.
 
-## Status: late June now priceable; mid-July and mid-August still waiting
+## Status: late June and mid-July now priceable; mid-August still waiting
 
 Airline schedules for this route (Wizz Air, Tarom, and codeshares) hadn't
 been published this far out (11-14 months from today, 2026-07-09) — a live
 test of a nearer date (Oct 2026) confirmed the route and connectors both
-work fine. As of the 2026-07-13 weekly check, **the late-June week's
-schedule has opened**; mid-July and mid-August are still unpublished. A
-weekly trigger keeps checking for the remaining two — see "Ongoing
-monitoring" below.
+work fine. As of the 2026-07-20 weekly check, **mid-July's schedule has
+also opened** (late June opened the week before); mid-August is still
+unpublished. A weekly trigger keeps checking for the remaining week — see
+"Ongoing monitoring" below.
 
 ## Candidate weeks compared (all ~11 nights, within the 10-14 day range)
 
 | Week | Dates | Flights (5 pax: 4 adults + 1 child) | Family apartment (checked 2026-07-09) |
 |---|---|---|---|
-| Late June | Jun 27 – Jul 8, 2027 | **2,367 ILS** (live-checked 2026-07-13, lastminute.com — Kiwi.com was disconnected at check time) | 3,566 ILS |
-| Mid July | Jul 18 – Jul 29, 2027 | Not yet priceable — no schedule (checked 2026-07-13) | 3,566 ILS |
-| Mid August | Aug 15 – Aug 26, 2027 | Not yet priceable — no schedule (checked 2026-07-13) | 3,566 ILS |
+| Late June | Jun 27 – Jul 8, 2027 | **2,367 ILS** (live-checked 2026-07-13, lastminute.com) | 3,566 ILS |
+| Mid July | Jul 18 – Jul 29, 2027 | **4,874 ILS** (live-checked 2026-07-20, lastminute.com) | 3,566 ILS |
+| Mid August | Aug 15 – Aug 26, 2027 | Not yet priceable — no schedule (checked 2026-07-20) | 3,566 ILS |
 
 Late June cheapest option: Wizz Air Malta, nonstop both ways, 690.10 EUR
-total for all 5 — converted at ~3.43 ILS/EUR. Several nonstop Wizz Air
-options cluster at this same price; Tarom and mixed-carrier options run
-higher (860-1,287 EUR). Booking link and full option list available on
-request — not included here to keep the file short.
+total for all 5 — converted at ~3.43 ILS/EUR. Mid-July cheapest option:
+also Wizz Air Malta, nonstop both ways, 1,420.90 EUR total for all 5 — more
+than double late June's price, likely reflecting peak mid-summer demand.
+Both checks ran via lastminute.com since Kiwi.com was disconnected at
+check time — worth a cross-check with Kiwi once it's back online. Booking
+links and full option lists available on request — not included here to
+keep the file short.
 
 Apartment: House4You - Balcescu, Sector 1, 4★ (estimated), 9.2/10 (764
 reviews) — via Booking.com, 2 adults + 3 children (ages 15/13/11).
