@@ -1,6 +1,6 @@
 # Bulgaria Family Ski Trip — Feb 8–14, 2027
 
-Family of 5 (2 adults, kids 14/12/10), Pamporovo, Bulgaria. Budget: 10,000 ILS all-in.
+Family of 5 (2 adults, kids 14/12/10), Pamporovo, Bulgaria. Budget: 8,000 ILS all-in.
 Self-catering. 3 days of ski lessons.
 
 ## Why this week
@@ -13,11 +13,28 @@ Feb 8–14 won on both flights and lodging, and it starts on [daughter]'s birthd
 | Feb 1–7 | 4,290 ILS | 2,625 ILS |
 | **Feb 8–14** | **4,063 ILS** | **1,875 ILS** |
 
-## Flights (live — Kiwi.com, checked [today's date])
+## Flights (live — Kiwi.com, checked 2026-07-09)
 - Outbound: LY551, Tel Aviv → Sofia, Feb 8 2027, 07:25 → 10:10, nonstop, El Al
 - Return: W6 4427, Sofia → Tel Aviv, Feb 14 2027, 05:45 → 08:15, nonstop, Wizz Air
-- Total for 5 (4 adults incl. 14/12-yr-olds, 1 child): **4,063 ILS**
-- Book via: https://kiwi.com/u/p692p73 (verify price at booking time — fares move)
+- Total for 5 (4 adults incl. 14/12-yr-olds, 1 child): **4,060 ILS**
+- Book via: https://kiwi.com/u/3j8jpj (verify price at booking time — fares move)
+
+### Price check history
+| Date checked | Price | Notes |
+|---|---|---|
+| mid-2026 (undated) | 4,063 ILS | Original check, date not recorded |
+| 2026-07-09 (~7 months out) | 4,060 ILS | Re-checked; essentially unchanged (−3 ILS) |
+| 2026-07-13 (~7 months out) | 4,066 ILS | Weekly check; essentially unchanged (+6 ILS) |
+| 2026-07-20 (~7 months out) | 4,059 ILS | Weekly check; essentially flat, marginal new low (−1 ILS vs 2026-07-09) |
+| 2026-07-27 (~6 months out) | 4,097 ILS | Weekly check; up +38 ILS from prior week — largest move so far, still not a clear trend |
+| 2026-08-03 (~6 months out) | 4,157 ILS | Weekly check; **itinerary shift** — the LY551/W64427 combo tracked above jumped to 4,517 ILS (+420 from last week), but a different combo (LY551 outbound / 6H722 Israir return) is now cheapest at 4,157 ILS, undercutting it. Logging the overall cheapest fare from here on, not a fixed itinerary — first real sign of fare-bucket movement, not just noise |
+
+Booking now (7 months out) is *before* the general 90–120-day sweet-spot
+window (target: ~Oct 11–Nov 10, 2026 — see "Still to do" below). The two
+checks so far are flat, which doesn't yet confirm or disprove the "cheaper
+closer to the window" theory — that needs a check actually taken inside the
+Oct–Nov window to compare against. Re-run `/search-flights` for this route
+then and log the result in this table.
 
 ## Apartment (live — Booking.com, checked [today's date])
 - **Pamporovo Dream Apartments**, Grand Resort Pamporovo
@@ -47,25 +64,73 @@ Feb 8–14 won on both flights and lodging, and it starts on [daughter]'s birthd
 
 | Item | ILS |
 |---|---|
-| Flights | 4,063 |
+| Flights | 4,060 |
 | Apartment | 1,875 |
 | Lessons (kids only) | 1,400 |
 | Lift passes | 2,260 |
 | Equipment rental | 700 |
 | Transfer | 275 |
 | Meals | 1,500–1,800 |
-| **Total** | **~12,073–12,373** |
+| **Total** | **~12,070–12,370** |
 
-**Gap vs. 10,000 ILS budget: ~2,000–2,400 ILS over.**
+**Gap vs. 8,000 ILS budget: ~4,070–4,370 ILS over.**
+
+## Alternative destination: Zakopane, Poland (same week, checked 2026-07-13)
+
+Compared against Zakopane (nearest airport: Kraków, KRK) for the identical
+Feb 8-14, 2027 week, same 5-pax family mix.
+
+| Item | Bulgaria (Pamporovo) | Poland (Zakopane) | Source |
+|---|---|---|---|
+| Flights (5 pax) | 4,060 ILS | **3,007 ILS** (live) | Kiwi.com, both live-checked |
+| Apartment (6 nights) | 1,875 ILS | **3,402 ILS** (live) | Booking.com, both live-checked |
+| Ski lessons (kids) | ~1,400 ILS | ~1,300 ILS | Published, neither live-checked |
+| Lift passes | ~2,260 ILS | ~2,160 ILS | Published, neither live-checked |
+| Equipment rental | ~700 ILS | ~700-900 ILS | Published, neither live-checked |
+| Transfer (airport-resort) | ~275 ILS | ~400-600 ILS | Published, neither live-checked |
+| Meals (self-catering) | ~1,500-1,800 ILS | ~1,500-1,800 ILS | Same estimate both — untested for Poland |
+| **Total** | **~12,070-12,370** | **~12,470-12,970** | |
+
+**Flights are ~1,050 ILS cheaper to Poland, but lodging is ~1,500 ILS more
+expensive** — the flight savings don't cover the lodging premium, so
+Zakopane comes out somewhat pricier overall on this pass, not cheaper.
+Zakopane apartment: Royal Hill Residence, 9.6/10 (1,299 reviews), ski
+facility tag, family rooms — a cheaper option exists (Czerwona Izba,
+3,015 ILS, 9.8/10 but only 24 reviews) but it's still well above
+Pamporovo's 1,875 ILS; Zakopane as a destination appears to simply run
+pricier for lodging than Pamporovo, a smaller/less internationally-known
+resort.
+
+**Caveat:** lessons/lift-passes/equipment/transfer are published-rate
+estimates for both destinations, not live-quoted for either — the
+comparison's reliable part is flights and lodging (both live), not the
+full total. Kraków-Zakopane transfer (~100km, ~1.5-2h) is a rougher
+estimate than Sofia-Pamporovo's since no shuttle price was live-checked
+for either.
 
 ## Ways to close the gap
 - Confirm lift pass pre-sale dates for 2026/27 season and book before it expires
 - Rent only what's needed (skip skis for anyone with usable gear already)
 - Groceries-heavy meal plan can realistically drop to ~1,200 ILS
-- Consider 2 lesson days instead of 3 if 10k is a hard ceiling (~470 ILS saved)
+- Consider 2 lesson days instead of 3 if 8k is a hard ceiling (~470 ILS saved)
 
 ## Still to do
 - Live-check ski lesson and lift pass prices once a Pamporovo-specific booking
   connector/site is available (not covered by Kiwi.com/Booking.com/Expedia/lastminute.com)
 - Confirm exact 2026/27 lift pass pre-sale window
-- Book flights ~2-3 months out; apartment has flexible booking, can wait
+- Book flights: target window **~Oct 11 – Nov 10, 2026** (90–120 days before
+  the Feb 8, 2027 departure). This is general published booking-window
+  research, not live/historical fare data for this specific route (no
+  historical-fare connector is available — see `.claude/skills/search-flights/SKILL.md`
+  for the general guidance this is based on). Notes specific to this trip:
+  - The lift-pass pre-sale deadline (~Oct 31, 2026) sits inside this window
+    — booking flights in the first half (Oct 11–31) means one trip to the
+    connectors covers both flights and the pass pre-sale discount
+  - El Al (outbound leg) is a legacy carrier and typically opens bookings
+    ~10–11 months out, so its schedule/fares are likely already visible now
+  - Wizz Air (return leg) is low-cost and typically releases schedules later
+    (~6–9 months out) with more volatile pricing — the 4,063 ILS combined
+    fare above was checked mid-2026, early in Wizz's likely release window,
+    so re-run `/search-flights` for this route closer to the Oct–Nov target
+    window rather than treating that number as final
+  - Apartment has flexible booking, can wait
