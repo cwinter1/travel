@@ -28,6 +28,8 @@ Feb 8–14 won on both flights and lodging, and it starts on [daughter]'s birthd
 | 2026-07-20 (~7 months out) | 4,059 ILS | Weekly check; essentially flat, marginal new low (−1 ILS vs 2026-07-09) |
 | 2026-07-27 (~6 months out) | 4,097 ILS | Weekly check; up +38 ILS from prior week — largest move so far, still not a clear trend |
 | 2026-08-03 (~6 months out) | 4,157 ILS | Weekly check; **itinerary shift** — the LY551/W64427 combo tracked above jumped to 4,517 ILS (+420 from last week), but a different combo (LY551 outbound / 6H722 Israir return) is now cheapest at 4,157 ILS, undercutting it. Logging the overall cheapest fare from here on, not a fixed itinerary — first real sign of fare-bucket movement, not just noise |
+| 2026-08-10, 2026-08-17 | — | Skipped — Kiwi.com and lastminute.com both required re-authorization (unavailable in-session); Expedia's fallback data only showed a non-comparable 1-stop-via-Athens routing, so nothing was logged rather than corrupt the series |
+| 2026-08-24 (~5.5 months out) | **3,227 ILS** | **New low, ~22% below prior best (4,059 ILS).** Kiwi.com/lastminute.com still unavailable — checked via Expedia instead. Itinerary: LY551 (El Al) outbound / IZ364 (Arkia) return, nonstop both ways — same *type* of product as prior checks (nonstop, Israeli carriers) but a different specific return carrier (Arkia, not Wizz/Israir) and a different pricing source, so treat this drop with some caution until Kiwi.com is back and can confirm it independently |
 
 Booking now (7 months out) is *before* the general 90–120-day sweet-spot
 window (target: ~Oct 11–Nov 10, 2026 — see "Still to do" below). The two
@@ -64,16 +66,19 @@ then and log the result in this table.
 
 | Item | ILS |
 |---|---|
-| Flights | 4,060 |
+| Flights | 3,227 (updated 2026-08-24 — see price-check-history caveat above) |
 | Apartment | 1,875 |
 | Lessons (kids only) | 1,400 |
 | Lift passes | 2,260 |
 | Equipment rental | 700 |
 | Transfer | 275 |
 | Meals | 1,500–1,800 |
-| **Total** | **~12,070–12,370** |
+| **Total** | **~11,237–11,537** |
 
-**Gap vs. 8,000 ILS budget: ~4,070–4,370 ILS over.**
+**Gap vs. 8,000 ILS budget: ~3,237–3,537 ILS over.** Improved by ~830 ILS
+from the prior estimate, but the flights figure driving this is from
+Expedia (not the usual Kiwi.com source) — worth reconfirming once
+Kiwi.com is reachable again before treating this as fully solid.
 
 ## Alternative destination: Zakopane, Poland (same week, checked 2026-07-13)
 
